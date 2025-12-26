@@ -1,7 +1,0 @@
-<?xml version='1.0' encoding='utf-8'?>
-<resources>
-    <string name="app_name">ثبت کارکرد</string>
-    <string name="title_activity_main">ثبت کارکرد</string>
-    <string name="package_name">com.skparvaneh.app</string>
-    <string name="custom_url_scheme">com.skparvaneh.app</string>
-</resources>
